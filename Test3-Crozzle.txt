@@ -1,9 +1,9 @@
 // File dependencies.
 // Configuraton file.
-CONFIGURATION_FILE="http://sit323.azurewebsites.net/Task2/Test3-Configuration.txt"
+CONFIGURATION_FILE="https://raw.githubusercontent.com/rastermechanism/Crozzleurl/master/Test3-Configuration.txt"
 
 // Word list file.
-WORDLIST_FILE="http://sit323.azurewebsites.net/Task2/Test3-Sequences.txt"
+WORDLIST_FILE="https://raw.githubusercontent.com/rastermechanism/Crozzleurl/master/Test3-Sequences.txt"
 
 
 // Crozzle Size.

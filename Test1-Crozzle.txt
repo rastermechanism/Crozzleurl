@@ -1,9 +1,9 @@
 // File dependencies.
 // Configuraton file.
-CONFIGURATION_FILE=".\Test1-Configuration.txt"
+CONFIGURATION_FILE="https://raw.githubusercontent.com/rastermechanism/Crozzleurl/master/Test1-Configuration.txt"
 
 // Word list file.
-WORDLIST_FILE=".\Test1-Sequences.txt"
+WORDLIST_FILE="https://raw.githubusercontent.com/rastermechanism/Crozzleurl/master/Test1-Sequences.txt"
 
 // Crozzle Size.
 // The number of rows and columns.
